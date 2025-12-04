@@ -1,0 +1,6 @@
+framework module Pods_15GymToolkit {
+  umbrella header "Pods-15GymToolkit-umbrella.h"
+
+  export *
+  module * { export * }
+}
