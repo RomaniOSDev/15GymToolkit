@@ -98,7 +98,7 @@ struct SettingsView: View {
     
     private func openPrivacyPolicy() {
         // Replace with your actual privacy policy URL
-        if let url = URL(string: "https://www.example.com/privacy-policy") {
+        if let url = URL(string: "https://www.termsfeed.com/live/4ee9f1c1-4560-438a-8b58-da4874f0adfb") {
             UIApplication.shared.open(url)
         }
     }
