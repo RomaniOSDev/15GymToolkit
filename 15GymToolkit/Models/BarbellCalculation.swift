@@ -24,3 +24,4 @@ struct BarbellCalculation: Identifiable, Codable {
 }
 
 
+
